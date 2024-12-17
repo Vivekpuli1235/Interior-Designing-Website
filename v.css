@@ -1,0 +1,122 @@
+h1 {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .nav-item:hover {
+    background-color: rgb(163, 155, 95);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    animation: mymove 5s infinite;
+    animation-delay: 2s;
+  }
+  
+  .logo {
+    padding: 20px;
+  }
+  
+  .vinay {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #e8e2dc;
+  }
+  
+  .profile {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+  }
+  
+  h2 {
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .FOUND {
+    display: flex;
+    padding-left: 50px;
+  }
+  
+  .loggg {
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+    padding-inline: 10px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    animation: mymove 5s infinite;
+    animation-delay: 2s;
+  }
+  
+  .intro {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+  }
+  
+  .FOUND {
+    display: flex;
+    text-align: center;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #e8e2dc;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #btn_1 {
+    margin: 10px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .more {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .Brandam {
+    display: flex;
+    padding-inline: 50px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: black;
+  }
+  .our-projects{
+    align-items: center;
+  
+  }
+  .Living{
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .Bed{
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .text-3xl font-bold{
+    color: #e8e2dc;
+  }
+
+  .footer{
+    background-color:#122920;
+    height: 200px;
+  }
