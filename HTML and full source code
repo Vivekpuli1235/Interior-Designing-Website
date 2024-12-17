@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>PVP INTERIOR</title>
+</head>
+<body>
+  
+</body>
+</html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PVP INTERIOR's</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="v.css">
+</head>
+  <body>
+    <div>
+         
+    <h1 class="intro">PVP INTERIORS</h1>
+    </div>
+    <div class="col-12 col-md-12 col-lg-12 mt-2">
+    <div class="main_nav">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#"><img src="https://asset.cloudinary.com/dxr9wzza1/135331212104a3f11856e31ab6b7b28e" height="50" width="50"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#our-projects">Our Projects</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#about-us">About Us</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Design Type
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">1-Bhk</a></li>
+                      <li><a class="dropdown-item" href="#">2-Bhk</a></li>
+                      <li><a class="dropdown-item" href="#">Others</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </div>
+    </div>
+    <br> 
+    <div class="col-12 col-md-12 col-lg-12 mt-2">
+    <div class="crosol" class="row">
+        <div id="carouselExampleCaptions" class="carousel slide">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/1_dwovbg.jpg " class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>First slide label</h5>
+                  <p>Some representative placeholder content for the first slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/3_quwhhr.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Second slide label</h5>
+                  <p>Some representative placeholder content for the second slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/03_sx4kym.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Third slide label</h5>
+                  <p>Some representative placeholder content for the third slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712942000/2_khfmin.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>fourth slide label</h5>
+                  <p>Some representative placeholder content for the third slide.</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </div>
+    </div>
+    <div class="our-projects" id="our-projects">
+    <h1>Our Projects</h1>
+    <h2>Living Room</h2>
+    <div class=" col-12">
+    <div class="Living">
+      
+    <img class=" col-4 Living" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1713073537/IMG_20240306_143742_u0ymhm.jpg" height="200px" width="300px">
+    <img class=" col-4 Living" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/1_dwovbg.jpg" height="200px" width="300px">
+    <img class=" col-4 Living" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/03_sx4kym.jpg" height="200px" width="300px">
+    </div></div></div>
+    <br><br>  
+  <h2>Bed Room</h2>
+  <div class="Bed">
+  <img class=" col-4 Bed" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1713073450/IMG_20240306_143259_t7nexy.jpg" height="200px" width="300px">
+  <img class=" col-4 Bed" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1713073762/m_bedroom_1_op1_fin_nzgjcz.jpg" height="200px" width="300px">
+  <img class=" col-4 Bed" src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1712941996/1_dwovbg.jpg" height="200px" width="300px">
+  </div>
+</div>
+  <br>
+  <h3 class="more">EXPLORE MORE</h3>
+  <div class="col-12 col-lg-12 col-md-12">
+  <div class="buttons">
+    <button id="btn_1">KITCHEN</button>
+    <button id="btn_1">LIVING ROOM</button>
+    <button id="btn_1">OFFICE LOOKS</button>
+    <button id="btn_1">+MORE</button>
+  </div>  </div>
+  <br><br>
+  <div class="about-us" id="about-us">
+  <h1>Contact-us;</h1> 
+   </div>  
+  <section class="py-12 bg-black">
+    <div class="container mx-auto text-center" id="Contact_us">
+      <br>
+        <form class="mt-8 max-w-lg mx-auto">
+            <div class="mb-4">
+                <input class="w-full p-3 border border-gray-300 rounded" placeholder="Your Name" type="text" />
+            </div>
+            <div class="mb-4">
+                <input class="w-full p-3 border border-gray-300 rounded" placeholder="Your Email" type="email" />
+            </div>
+            <div class="mb-4">
+                <textarea class="w-full p-3 border border-gray-300 rounded h-32" placeholder="Your Message"></textarea>
+            </div>
+            <button class="btn btn-success bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded" type="submit">
+                Send Message
+            </button>
+
+        </form>
+        <BR>
+    </div>
+</section>
+</div>
+  </div>
+  </div></div>
+  <br><br><br><br>
+  <div class="footer">
+  <div class="col-12 col-md-12 col-lg-12">
+<h1></h1>
+  </div></div>
+ 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+
+
+    <style>
+      h1 {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .nav-item:hover {
+    background-color: rgb(163, 155, 95);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    animation: mymove 5s infinite;
+    animation-delay: 2s;
+  }
+  
+  .logo {
+    padding: 20px;
+  }
+  
+  .vinay {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #e8e2dc;
+  }
+  
+  .profile {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+  }
+  
+  h2 {
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .FOUND {
+    display: flex;
+    padding-left: 50px;
+  }
+  
+  .loggg {
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+    padding-inline: 10px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    animation: mymove 5s infinite;
+    animation-delay: 2s;
+  }
+  
+  .intro {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+  }
+  
+  .FOUND {
+    display: flex;
+    text-align: center;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #e8e2dc;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #btn_1 {
+    margin: 10px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .more {
+    text-align: center;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .Brandam {
+    display: flex;
+    padding-inline: 50px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: black;
+  }
+  .our-projects{
+    align-items: center;
+  
+  }
+  .Living{
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .Bed{
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .text-3xl font-bold{
+    color: #e8e2dc;
+  }
+
+  .footer{
+    background-color:#122920;
+    height: 200px;
+  }
+    </style>
+</body>
+</html>
